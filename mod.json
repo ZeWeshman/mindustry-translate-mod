@@ -1,9 +1,8 @@
 {
-  "name": "Translate Chat Mod",
-  "description": "A mod that translates chat messages using Google Translate.",
-  "author": "YourName",
+  "name": "Translate Chat Mod (LibreTranslate)",
+  "description": "A mod that translates chat messages using LibreTranslate. Made by ChatGPT",
+  "author": "[Green]Ze[Red]Weshman",
   "version": "1.0",
   "minGameVersion": "126",
-  "scripts": ["main.js"],
-  "hidden": false
+  "scripts": ["main.js"]
 }
