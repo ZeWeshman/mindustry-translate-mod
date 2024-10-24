@@ -1,0 +1,9 @@
+{
+  "name": "Translate Chat Mod",
+  "description": "A mod that translates chat messages using Google Translate.",
+  "author": "YourName",
+  "version": "1.0",
+  "minGameVersion": "126",
+  "scripts": ["main.js"],
+  "hidden": false
+}
