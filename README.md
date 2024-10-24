@@ -16,11 +16,12 @@ This mod adds functionality to translate chat messages in **Mindustry** using th
 
 2. **Folder Structure**:
    Place the mod files in your **Mindustry** mods folder. The structure should look like this:
-mindustry-translate-mod/
-├── scripts/
+```
+mindustry-translate-mod\
+├── scripts\
 │   └── main.js
 └── mod.json
-
+```
 
 3. **Launch Mindustry**:
 Start the game, and the mod should be automatically recognized and loaded.
